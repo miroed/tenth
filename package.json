@@ -1,0 +1,11 @@
+{
+  "name": "tenth",
+  "version": "1.0.0",
+  "description": "Tenth Digital Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tenth Digital",
+  "license": "ISC"
+}
